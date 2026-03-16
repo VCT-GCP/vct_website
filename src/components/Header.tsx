@@ -288,7 +288,7 @@ const Header = () => {
 
                   {/* LinkedIn */}
                   <a
-                    href="https://www.linkedin.com/company/vaarahi-cloud-technologis/"
+                    href="https://www.linkedin.com/in/vaarahi-cloud-technologies-1616213b3/"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"
