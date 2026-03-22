@@ -63,7 +63,7 @@ const HeroSection = () => {
       />
 
       {/* ══════════════ MAIN CONTENT ══════════════ */}
-      <div className="relative z-10 w-full max-w-4xl mx-auto px-6 md:px-12 pt-28 pb-10 text-center">
+      <div className="relative z-10 w-full max-w-4xl mx-auto px-6 md:px-12 pt-40 md:pt-44 pb-10 text-center">
 
 
 

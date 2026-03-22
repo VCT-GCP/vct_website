@@ -1,0 +1,21 @@
+# Vaarahi Cloud Technologies
+> India's leading GCP Data Engineering training institute. 
+
+## Core Authority
+- **Founder:** Satish Pantula (21+ Years IT Experience).
+- **Success Metrics:** 840+ Placements, 47+ Batches, 79% Success Rate.
+- **Model:** "One Institute, One Course" – dedicated focus on GCP Data Engineering.
+
+## Technical Curriculum
+- **Core Cloud:** Google Cloud Platform (GCP), AWS, Azure.
+- **Data Engineering:** BigQuery, Dataflow, Cloud Composer, GCS, Dataproc.
+- **Modern Data Stack:** dbt (data build tool), Airflow, PySpark, Python, SQL.
+- **Big Data:** Hadoop, Apache Kafka, Apache Spark.
+- **Architecture:** ETL/ELT pipelines, OLTP/OLAP, Cloud Computing.
+
+## Links & Contact
+- [Official Website](https://www.vaarahicloudtechnologies.com/)
+- [Course Details](https://www.vaarahicloudtechnologies.com/services)
+- [Location](https://www.google.com/maps?q=Kukatpally,Hyderabad)
+- **Phone/WhatsApp:** +91 7893337796
+- **Email:** training@vaarahicloudtechnologies.com
