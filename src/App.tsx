@@ -1,5 +1,4 @@
 import Header from "@/components/Header";
-import ScrollingBanner from "@/components/ScrollingBanner";
 import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
 import ServicesSection from "@/components/ServicesSection";
@@ -15,7 +14,6 @@ const Index = () => {
     <>
       <EnquiryPopup />
       <Header />
-      <ScrollingBanner />
       <HeroSection />
       <PlacementLogos />
       <AboutSection />
