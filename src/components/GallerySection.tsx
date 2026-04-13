@@ -7,6 +7,7 @@ const galleryItems = [
   { id: 2, src: "/Gallery7.png", label: "Gallery Image 7" },
   { id: 3, src: "/Gallery1.png", label: "Gallery Image 1" },
   { id: 4, src: "/Gallery6.png", label: "Gallery Image 6" },
+
 ];
 
 const GallerySection = () => {

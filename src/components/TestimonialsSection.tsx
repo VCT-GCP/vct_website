@@ -27,7 +27,13 @@ const testimonials = [
     name: "Siva Sai",
     role: "GCP Data Engineering Student",
     text: "I recently completed my course at Vaarahi Cloud Technology and had a great experience. Coming from a non-IT background, I was initially unsure, but Satish sir’s guidance and motivation helped me gain confidence quickly. The supportive staff and encouraging teaching style made learning easier. I highly recommend Vaarahi for non-IT students aiming to build a career as GCP Data Engineers."
-  }
+  },
+  {
+    name: "Sumedha",
+    role: "GCP Data Engineering Student",
+    text: "I enrolled for the GCP Data Engineering course at Vaarahi Cloud Technologies, and the experience has been very good. The trainers explain every concept clearly and focus on real-time data engineering scenarios, which makes the learning practical and easy to understand. The course content is well-structured, and the hands-on labs help a lot in building confidence with GCP tools and pipelines."
+  },
+
 ];
 
 const slideVariants = {
