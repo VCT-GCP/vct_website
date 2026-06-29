@@ -56,7 +56,7 @@ const AboutSection = () => {
               "At Vaarahi, we don't just teach tools — we shape careers. Our one-course-one-focus model ensures every student receives deep, practical knowledge to become a job-ready GCP Data Engineer. With a blend of real-time projects, mentorship, and placement support, we've helped over 1000+ students step confidently into the IT world."
             </blockquote>
             <p className="mt-6 text-muted-foreground leading-relaxed">
-              With 1000+ successful placements and 2000+ trained professionals across 51+ batches, Vaarahi Cloud Technologies has proudly earned the title of Hyderabad's and India's most trusted institute for Google Cloud Data Engineering training.
+              With 1000+ successful placements and 2000+ trained professionals across 53+ batches, Vaarahi Cloud Technologies has proudly earned the title of Hyderabad's and India's most trusted institute for Google Cloud Data Engineering training.
             </p>
           </div>
         </motion.div>
