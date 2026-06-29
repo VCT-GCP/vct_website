@@ -3,8 +3,8 @@ import { ChevronDown, ArrowRight } from "lucide-react";
 import image from "@/assets/image.png";
 
 const stats = [
-  { value: "960+", label: "Students Placed" },
-  { value: "52+", label: "Batches Completed" },
+  { value: "1000+", label: "Students Placed" },
+  { value: "53+", label: "Batches Completed" },
   { value: "82%", label: "Success Rate" },
   { value: "21+", label: "IT Experience" },
   { value: "12+", label: "Teaching Experience" },
