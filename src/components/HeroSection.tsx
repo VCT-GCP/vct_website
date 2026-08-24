@@ -167,7 +167,7 @@ const HeroSection = () => {
             >
               <path d="M8 5v14l11-7z" />
             </svg>
-            Book Demo for AUG 22nd
+            Book Demo for AUG 29th
           </a>
 
           {/* WhatsApp Us — dark outlined */}
