@@ -59,6 +59,11 @@ const EnquiryPopup = () => {
         body: formData
       });
 
+      (window as any).dataLayer = (window as any).dataLayer || [];
+      (window as any).dataLayer.push({
+        event: "generate_lead",
+        form_name: "enquiry_popup"
+      });
       setStatus("success");
 
       setTimeout(() => {
