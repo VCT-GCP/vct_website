@@ -3,8 +3,8 @@ import { ChevronDown, ArrowRight } from "lucide-react";
 import image from "@/assets/image.png";
 
 const stats = [
-  { value: "1000+", label: "Students Placed" },
-  { value: "53+", label: "Batches Completed" },
+  { value: "1100+", label: "Students Placed" },
+  { value: "55+", label: "Batches Completed" },
   { value: "82%", label: "Success Rate" },
   { value: "21+", label: "IT Experience" },
   { value: "12+", label: "Teaching Experience" },
@@ -15,7 +15,7 @@ const FORM_LINK =
   "https://docs.google.com/forms/d/e/1FAIpQLSeasmTZ3wOn0aMDz-A6fFGVKu-U2rac4qPAdkAaPrclJj7z3w/viewform";
 
 const DEMO_LINK =
-  "https://us06web.zoom.us/meeting/register/qCw9d_SURnukZ70SiGet3g";
+  "https://us06web.zoom.us/j/86177296156?pwd=x7CUuK7qVyTCQLZjV5JXOWEIcXA4y7.1";
 
 const HeroSection = () => {
   const scrollTo = (id: string) => {
@@ -167,7 +167,7 @@ const HeroSection = () => {
             >
               <path d="M8 5v14l11-7z" />
             </svg>
-            Book Demo for AUG 29th
+            Book Demo for Sept 26th
           </a>
 
           {/* WhatsApp Us — dark outlined */}
