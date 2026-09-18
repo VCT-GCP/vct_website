@@ -6,7 +6,7 @@ const highlights = [
   { icon: Target, title: "Our Purpose", text: "Empower learners with expert-driven training in GCP & Cloud Data Engineering, combining deep academic concepts with real-time practical implementation." },
   { icon: Rocket, title: "Our Curriculum", text: "We teach and focus on ETL/ELT, SQL , DBT ,Airflow , Pyspark , Python , GCP/AWS/Azure , OLTP OLAP , Hadoop , Bigdata , Cloud Computing , GCS , Apache Kafka , Apache Spark. " },
   { icon: Star, title: "Our Goals", text: "Build mastery in GCP tools, strengthen confidence through mock interviews, deliver real-time project experience, and stay updated with evolving cloud technologies." },
-  { icon: Trophy, title: "Achievements", text: "1000+ students placed in top MNCs, 82% career success rate, 2000+ professionals trained across 53+ batches, rated as India's Best GCP Data Engineering Institute." },
+  { icon: Trophy, title: "Achievements", text: "1100+ students placed in top MNCs, 82% career success rate, 2000+ professionals trained across 55+ batches, rated as India's Best GCP Data Engineering Institute." },
 ];
 
 const AboutSection = () => {
@@ -56,7 +56,7 @@ const AboutSection = () => {
               "At Vaarahi, we don't just teach tools — we shape careers. Our one-course-one-focus model ensures every student receives deep, practical knowledge to become a job-ready GCP Data Engineer. With a blend of real-time projects, mentorship, and placement support, we've helped over 1000+ students step confidently into the IT world."
             </blockquote>
             <p className="mt-6 text-muted-foreground leading-relaxed">
-              With 1000+ successful placements and 2000+ trained professionals across 53+ batches, Vaarahi Cloud Technologies has proudly earned the title of Hyderabad's and India's most trusted institute for Google Cloud Data Engineering training.
+              With 1100+ successful placements and 2000+ trained professionals across 55+ batches, Vaarahi Cloud Technologies has proudly earned the title of Hyderabad's and India's most trusted institute for Google Cloud Data Engineering training.
             </p>
           </div>
         </motion.div>
