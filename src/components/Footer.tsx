@@ -11,11 +11,11 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <img src="/Logo.png" alt="Vaarahi Logo" className="h-15 w-20" />
+              <img src="/vaarahi_logo_footer.png" alt="Vaarahi Logo" className="h-15 w-20" />
 
               <div>
-          <span className="font-heading font-bold text-primary-foreground">VAARAHI</span>
-          <span className="block text-[9px] tracking-widest text-primary-foreground/50 -mt-0.5">CLOUD TECHNOLOGIES</span>
+                <span className="font-heading font-bold text-primary-foreground">VAARAHI</span>
+                <span className="block text-[9px] tracking-widest text-primary-foreground/50 -mt-0.5">CLOUD TECHNOLOGIES</span>
               </div>
             </div>
             <p className="text-sm text-primary-foreground/50 leading-relaxed">
@@ -27,13 +27,13 @@ const Footer = () => {
             <h4 className="font-heading font-bold text-primary-foreground mb-4 text-sm">Quick Links</h4>
             <div className="flex flex-col gap-2">
               {["Home", "About", "Services", "Gallery", "Contact"].map((item) => (
-          <button
-            key={item}
-            onClick={() => scrollTo(item.toLowerCase())}
-            className="text-sm text-primary-foreground/50 hover:text-primary transition-colors text-left"
-          >
-            {item}
-          </button>
+                <button
+                  key={item}
+                  onClick={() => scrollTo(item.toLowerCase())}
+                  className="text-sm text-primary-foreground/50 hover:text-primary transition-colors text-left"
+                >
+                  {item}
+                </button>
               ))}
             </div>
           </div>
