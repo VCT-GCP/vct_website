@@ -62,7 +62,7 @@ const Header = () => {
             onClick={() => scrollTo("home")}
             className="flex items-center gap-2"
           >
-            <img src="/vaarahi_logo_header.png" alt="Vaarahi Logo" className="h-20 w-62" />
+            <img src="/vaarahi_logo_header.png" alt="Vaarahi Logo" className="h-16 w-62" />
             {/* <div className="hidden sm:block">
               <span className="font-heading font-bold text-lg text-foreground">
                 VAARAHI
