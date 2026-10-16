@@ -83,6 +83,7 @@ const HeroSection = () => {
             style={{
               background: "linear-gradient(135deg, #ea580c 0%, #fb923c 100%)",
               WebkitBackgroundClip: "text",
+              fontSize: "clamp(1.5rem, 2vw, 1.5em)",
               WebkitTextFillColor: "transparent",
             }}
           >
@@ -92,23 +93,23 @@ const HeroSection = () => {
           {/* ONE INSTITUTE · ONE COURSE */}
           <div
             className="font-heading font-bold leading-tight"
-            style={{ color: "#ffffff", fontSize: "clamp(2.4rem, 4.8vw, 4rem)", letterSpacing: "0.10em" }}
+            style={{ color: "#ffffff", fontSize: "clamp(2.1rem, 5vw, 2.1rem)", letterSpacing: "0.10em" }}
           >
             {/* Desktop: one line */}
-            <span className="hidden md:block whitespace-nowrap">ONE INSTITUTE · ONE COURSE</span>
+            <span className="hidden md:block whitespace-nowrap"> MODERNIZED GCP DATA ENGINEERING TRAINING IN HYDERABAD </span>
             {/* Mobile: two stacked lines */}
             <span className="flex flex-col items-center md:hidden">
-              <span>ONE INSTITUTE</span>
-              <span>ONE COURSE</span>
+              <span>MODERNIZED GCP DATA ENGINEERING </span>
+              <span>TRAINING IN HYDERABAD</span>
             </span>
           </div>
 
           {/* GCP Data Engineer */}
           <p
             className="font-medium tracking-widest"
-            style={{ color: "rgba(255,255,255,0.70)", fontSize: "clamp(1rem, 2vw, 1.4rem)", letterSpacing: "0.08em" }}
+            style={{ color: "rgba(255,255,255,0.70)", fontSize: "clamp(1.3rem, 2vw, 1.7rem)", letterSpacing: "0.08em" }}
           >
-            GCP Data Engineer
+            ONE INSTITUTE • ONE COURSE
           </p>
         </motion.div>
 
@@ -121,7 +122,7 @@ const HeroSection = () => {
           className="text-base md:text-lg leading-relaxed mb-9 mx-auto"
           style={{ color: "rgba(255,255,255,0.72)", maxWidth: 560 }}
         >
-          Hyderabad's Best Data Engineering Institute. Transform your career with India's most trusted, results-driven training ecosystem.
+          Learn Google Cloud Platform (GCP) Data Engineering in Hyderabad with hands-on training, learning at Vaarahi Cloud Technologies. Build practical skills for your cloud data engineering career.
         </motion.p>
 
         {/* ── CTA Buttons ── */}

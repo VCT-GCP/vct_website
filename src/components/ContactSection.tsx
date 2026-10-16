@@ -64,10 +64,10 @@ const ContactSection = () => {
                   <div className="min-w-0">
                     <p className="text-xs text-muted-foreground">Email</p>
                     <a
-                      href="mailto:training@vaarahicloudtechnologies.com"
+                      href="mailto:vaarahicloudtechnologies@gmail.com"
                       className="font-semibold text-foreground break-all hover:text-primary transition-colors"
                     >
-                      training@vaarahicloudtechnologies.com
+                      vaarahicloudtechnologies@gmail.com
                     </a>
                   </div>
                 </div>
@@ -79,7 +79,7 @@ const ContactSection = () => {
                   <div>
                     <p className="text-xs text-muted-foreground">Location</p>
                     <p className="font-semibold text-foreground">
-                      Kukatpally, Near JNTU, Hyderabad
+                      4th Floor, Vishal Mega mart building, Pragathi Nagar Rd, near JNTU, Addagutta,Kukatpally, Hyderabad.
                     </p>
                   </div>
                 </div>
