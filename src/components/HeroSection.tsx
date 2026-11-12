@@ -15,7 +15,7 @@ const FORM_LINK =
   "https://docs.google.com/forms/d/e/1FAIpQLSeasmTZ3wOn0aMDz-A6fFGVKu-U2rac4qPAdkAaPrclJj7z3w/viewform";
 
 const DEMO_LINK =
-  "https://us06web.zoom.us/meeting/register/x18GaIfpR22yxtOBup04zw";
+  "https://us06web.zoom.us/meeting/register/PJ0zQI_TRwefcdjCImqXAg";
 
 const HeroSection = () => {
   const scrollTo = (id: string) => {
@@ -168,7 +168,7 @@ const HeroSection = () => {
             >
               <path d="M8 5v14l11-7z" />
             </svg>
-            Book Demo for Oct 31st
+            Book Demo for Nov 28th
           </a>
 
           {/* WhatsApp Us — dark outlined */}
