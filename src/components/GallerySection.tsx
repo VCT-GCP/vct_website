@@ -4,9 +4,9 @@ import { X, ChevronLeft, ChevronRight } from "lucide-react";
 
 const galleryItems = [
   { id: 1, src: "/Gallery5.png", label: "Gallery Image 5" },
-  { id: 2, src: "/Gallery7.png", label: "Gallery Image 7" },
+  { id: 2, src: "/Gallery7.jpeg", label: "Gallery Image 7" },
   { id: 3, src: "/Gallery1.png", label: "Gallery Image 1" },
-  { id: 4, src: "/Gallery6.png", label: "Gallery Image 6" },
+  { id: 4, src: "/Gallery6.jpeg", label: "Gallery Image 6" },
 
 ];
 

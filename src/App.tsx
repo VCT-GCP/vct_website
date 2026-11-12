@@ -24,7 +24,7 @@ const Index = () => {
       {/* ✅ FAQ SECTION ADDED */}
       <div className="px-6 py-12 max-w-4xl mx-auto">
         <h2 className="text-3xl font-bold mb-6 text-center">
-          GCP Data Engineering Training FAQs
+          Modernized GCP Data Engineering Training FAQs
         </h2>
 
         <div className="mb-6">
@@ -32,7 +32,7 @@ const Index = () => {
             What is the best GCP Data Engineering course in Hyderabad?
           </h3>
           <p className="text-gray-600">
-            Vaarahi Cloud Technologies is widely recognized as one of the best institutes in Hyderabad, 
+            Vaarahi Cloud Technologies is widely recognized as one of the best institutes in Hyderabad,
             with over 840+ placements and a 79% success rate.
           </p>
         </div>
@@ -42,7 +42,7 @@ const Index = () => {
             Does the Vaarahi GCP curriculum include dbt and Airflow?
           </h3>
           <p className="text-gray-600">
-            Yes. The curriculum includes dbt, Apache Airflow, PySpark, and BigQuery 
+            Yes. The curriculum includes dbt, Apache Airflow, PySpark, and BigQuery
             with hands-on real-world projects.
           </p>
         </div>
@@ -52,7 +52,7 @@ const Index = () => {
             Can a non-IT student learn Data Engineering?
           </h3>
           <p className="text-gray-600">
-            Yes. The program is designed for both IT and non-IT learners to successfully 
+            Yes. The program is designed for both IT and non-IT learners to successfully
             transition into data engineering roles.
           </p>
         </div>
